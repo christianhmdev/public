@@ -1,8 +1,26 @@
 [
   {
-    "company": "STARTUPSLAB AGENCIA",
-    "date": "2020 - 2022",
+    "company": "TechCorp",
+    "date": "2022 - Present",
     "role": "Frontend Developer",
-    "description": "Contributed to building the company's website and services, created websites for clients, and worked on internal product development."
+    "description": [
+      "Building responsive websites",
+      "Optimizing user interfaces"
+    ],
+    "technologies": [
+      {
+        "id": "react.js",
+        "name": "React.js"
+      },
+      {
+        "id": "next.js",
+        "name": "Next.js"
+      },
+      {
+        "id": "tailwindcss",
+        "name": "Tailwind CSS"
+      }
+    ],
+    "current": true
   }
 ]
