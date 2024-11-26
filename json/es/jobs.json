@@ -8,9 +8,18 @@
       "Optimizing user interfaces"
     ],
     "technologies": [
-      { "id": "react.js", "name": "React.js" },
-      { "id": "next.js", "name": "Next.js" },
-      { "id": "tailwindcss", "name": "Tailwind CSS" }
+      {
+        "id": "react.js",
+        "name": "React.js"
+      },
+      {
+        "id": "next.js",
+        "name": "Next.js"
+      },
+      {
+        "id": "tailwindcss",
+        "name": "Tailwind CSS"
+      }
     ],
     "current": true
   }
