@@ -8,19 +8,10 @@
       "Creé sitios web para clientes.",
       "Trabajé en el desarrollo de productos internos."
     ],
-      "technologies": [
-      {
-        "id": "react.js",
-        "name": "React.js"
-      },
-      {
-        "id": "next.js",
-        "name": "Next.js"
-      },
-      {
-        "id": "tailwindcss",
-        "name": "Tailwind CSS"
-      }
+    "technologies": [
+      { "name": "React" },
+      { "name": "JavaScript" },
+      { "name": "CSS" }
     ]
   }
 ]
