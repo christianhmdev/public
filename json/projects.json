@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hi Beauty",
+    "description": "Offering subscription boxes and a variety of beauty products.",
+    "featured": true,
+    "type": "website",
+    "link": "https://hibeauty.com.co/",
+    "technologies": [
+      {
+        "id": "react.js",
+        "name": "React.js"
+      },
+      {
+        "id": "next.js",
+        "name": "Next.js"
+      },
+      {
+        "id": "tailwindcss",
+        "name": "Tailwind CSS"
+      }
+    ]
+  }
+]
